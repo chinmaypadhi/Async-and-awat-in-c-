@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\Console application work.exe
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\Console application work.deps.json
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\Console application work.runtimeconfig.json
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\Console application work.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\Console application work.dll
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\ref\Console application work.dll
+C:\Users\Asus\source\repos\Console application work\Console application work\bin\Debug\net5.0\Console application work.pdb
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.dll
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\ref\Console application work.dll
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.pdb
+C:\Users\Asus\source\repos\Console application work\Console application work\obj\Debug\net5.0\Console application work.genruntimeconfig.cache
